@@ -1,0 +1,17 @@
+body{
+  background-image: url("../img/clouds-2329680.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.login-signup-form{
+  width: 400px;
+  height: 356px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border-style: inset ;
+}
